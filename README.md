@@ -1,2 +1,3 @@
-# SQL_Employee_Database
-Sample employee database schema with SQL queries to calculate average salary, employee counts, and filter high earners.
+# SQL Practice - Employee Database
+
+This project contains a simple employee table schema and SQL queries for practice.
